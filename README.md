@@ -1,6 +1,6 @@
 # Landing-Page-using-Tailwind-CSS
 
-This is a Landing Page Using tailwind CSS
+This is a landing page using Tailwind CSS
 
 
 
